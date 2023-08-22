@@ -13,7 +13,7 @@ fig 1.1
 fig 1.2
 ![image](https://github.com/avinashnikam2699/Formula-based-user-authentication/assets/142893800/5f599c40-f68c-4475-8d9c-84c93f2a791d)
 
-Some advantages of implementing this type of authentication idea :
+# Some advantages of implementing this type of authentication idea :
 1.Because of a user generated formula user would be entering each time a new formula value for respective formula pin received by user from application during login.This would make the authentication more secure.
 
 2.Some cyber attacks which can be mitigated by this kind of authentication :
