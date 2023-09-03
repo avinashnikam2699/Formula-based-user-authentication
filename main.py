@@ -43,8 +43,8 @@ while True:
             print(m)
             mail_content = 'your OTP is '+ m
             #The mail addresses and password
-            sender_address = 'bhorhoney@gmail.com'
-            sender_pass = 'etyciuwxkihamzcz'
+            sender_address = 'avinashnikam2000@gmail.com'
+            sender_pass = 'mnyelgddpavrnnxm'
             receiver_address = username
             #Setup the MIME
             message = MIMEMultipart()
